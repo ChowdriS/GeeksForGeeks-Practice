@@ -1,5 +1,5 @@
 /*
-Problem : Problem : Array Pair Sum Divisibility Problem
+Problem : Array Pair Sum Divisibility Problem
 */
 
 #include <bits/stdc++.h>
