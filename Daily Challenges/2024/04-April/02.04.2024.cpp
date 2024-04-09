@@ -27,6 +27,7 @@ Node *buildTree(string str)
   for (string str; iss >> str;)
     ip.push_back(str);
 
+  Node *root = newNode(stoi(ip[0]));
 
   queue<Node *> queue;
   queue.push(root);
